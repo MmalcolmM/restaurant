@@ -6,4 +6,7 @@ export default defineConfig({
   server: {
     open: true, // this will open the browser automatically when you run the dev server
   },
+  build: {
+    outDir: 'dist', // Output directory for built files
+  },
 });
