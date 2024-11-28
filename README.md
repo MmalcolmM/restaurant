@@ -32,7 +32,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-I learned how to make this website with the help of [JavaScript Mastery)(https://www.youtube.com/c/JavaScriptMastery)
+I learned how to make this website with the help of [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery)
 
 
 
